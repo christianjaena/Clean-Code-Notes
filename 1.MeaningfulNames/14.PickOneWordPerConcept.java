@@ -9,6 +9,7 @@ class ProtocolController {}
 
 // What is the difference between these functions:
 public void fetch() {}
-public void get() {}
+public void receive() {}
 
 // Names should be contextual.
+
